@@ -1,0 +1,9 @@
+/.vs/
+/Application/bin/
+/Application/obj/
+/Application/Properties/
+/Main.Test/.vs/
+/Main.Test/bin/
+/Main.Test/obj/
+/Main.Test/Properties/
+
